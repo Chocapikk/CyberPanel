@@ -49,11 +49,6 @@ Run the tool with the options provided below.
   python exploit.py -u http://example.org
   ```
 
-- **Single target with a specified command**  
-  ```bash
-  python exploit.py -u http://example.org "id"
-  ```
-
 - **Multiple targets from a file with output**  
   ```bash
   python exploit.py -f targets.txt -o results.txt -t 10 "uname -a"
