@@ -1,0 +1,6 @@
+alive_progress
+colorlog
+prompt_toolkit
+requests
+rich_click
+urllib3
